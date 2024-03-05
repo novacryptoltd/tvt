@@ -3,7 +3,7 @@
 
 **Powered by NovaCrypto**
 
-![image](https://github.com/novacryptoltd/tvt/assets/40249338/ef6b6aaa-d96f-4398-b20f-4d60fb57442e)
+![image](https://github.com/novacryptoltd/tvt/assets/40249338/c1819596-94ae-40a3-8420-b8e3556c4b4e)
 
 
 **The validator tool (TVT) uses RPC get_actions method by Hyperion History Solution V2**
