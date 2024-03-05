@@ -5,6 +5,8 @@
 
 ![image](https://github.com/novacryptoltd/tvt/assets/40249338/c1819596-94ae-40a3-8420-b8e3556c4b4e)
 
+![image](https://github.com/novacryptoltd/tvt/assets/40249338/4887a6f5-2ea5-4d41-a346-6cc0cd04606d)
+
 
 **The validator tool (TVT) uses RPC get_actions method by Hyperion History Solution V2**
 
