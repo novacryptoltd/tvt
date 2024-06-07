@@ -1,5 +1,5 @@
 # tvt
-**Transaction Validator Tool for EOSBEES**
+**Transaction Validator Tool**
 
 **Powered by NovaCrypto**
 
